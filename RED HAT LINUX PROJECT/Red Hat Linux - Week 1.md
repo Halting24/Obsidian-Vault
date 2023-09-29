@@ -1,0 +1,5 @@
+- **use the < option before the dashed filename** for - files
+- For filenames with spaces **you put a \ before every space in the filename**
+- To view human-readable file As you can see after typing the above command your shell gave you a list of results and because of our previous discussion on human readable formats we know that ASCII is human readable. We can clearly see that `./-file07` is where our password is stored.
+- # Got to level 5 
+- 

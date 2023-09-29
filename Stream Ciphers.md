@@ -1,0 +1,1 @@
+- Buffer data streams similar to block ciphers encrypts end of block
