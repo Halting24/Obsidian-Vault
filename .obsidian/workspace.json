@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IST 4610/Cryptographic Foundations.md",
+                "file": "Red Hat Linux Week 1_Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps - Week1.md",
+                "file": "Red Hat Linux Week 1_Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,14 +81,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hat Linux Week 1.md",
+                "file": "Red Hat Linux Week 1_Project.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps - Week1.md",
+                "file": "Red Hat Linux Week 1_Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps - Week1.md",
+                "file": "Red Hat Linux Week 1_Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps - Week1.md"
+                "file": "Red Hat Linux Week 1_Project.md"
               }
             }
           }
@@ -215,14 +215,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9b224c60f782bde",
+  "active": "e8ecab3cf3e4ecb1",
   "lastOpenFiles": [
+    "IST 4610/Cryptographic Foundations.md",
+    "Red Hat Linux Week 1_Project.md",
+    "Shell Variants.md",
+    "DevOps - Week1.md",
     "README.md",
     "Week 3.md",
-    "DevOps - Week1.md",
     "development team.md",
     "Week 2.md",
-    "IST 4610/Cryptographic Foundations.md",
     "Diffusion.md",
     "Stream Ciphers.md",
     "FIPS 140-2.md",
@@ -233,7 +235,6 @@
     "IST 4610",
     "Untitled 1.md",
     "RED HAT LINUX PROJECT",
-    "Red Hat Linux Week 1.md",
     "Untitled.md"
   ]
 }

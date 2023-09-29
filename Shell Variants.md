@@ -1,0 +1,4 @@
+- sh - most basic shell 
+- powershell - windows 
+- bash - linux
+- Zsh - z shell used on mac os

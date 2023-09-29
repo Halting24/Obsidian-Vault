@@ -1,0 +1,24 @@
+- Linux open source operating system
+- High Demand
+# Red Hat Week 2
+- Introduction to shell
+- what is the Command Line interface
+- - text based interface
+- [[Shell Variants]] 
+- # What is Bash?
+- Bash stands for Bourne-Again Shell 
+- The default shell on most Linux distros
+- # Shell Basics
+- When first opening the shell displays a $ signifying a regular user
+- Super user is root 
+- Necessary for system admin tasks changing passwords
+- displayed with a # instead
+- # Local System vs Remote System 
+- Local System - The hardware/software on your own machine 
+- -script through your own terminal 
+- like your own computer
+- Remote system connects using ssh
+- # What makes up a command 
+- 3b basic parts
+- example of a command 
+- usermod - L user1

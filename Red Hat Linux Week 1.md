@@ -1,3 +1,0 @@
-- Linux open source operating system
-- High Demand
-- 
