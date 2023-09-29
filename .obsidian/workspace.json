@@ -4,91 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7efe6ce1bc85e80a",
+        "id": "0fb95f6ab9f7b454",
         "type": "tabs",
         "children": [
           {
-            "id": "57b47187d53e633c",
+            "id": "ddac8cdcd23b4651",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "9702dcfeeda560e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RED HAT LINUX PROJECT/Red Hat Linux - Week 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8ecab3cf3e4ecb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Hat Linux Week 1_Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "420156766915decb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Hat Linux Week 1_Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "454a4599654cba5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps - Week1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "006859d14b5b77e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c13ba430d9b693f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Hat Linux Week 1_Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hat Linux Week 1_Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hat Linux Week 1_Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Red Hat Linux Week 1_Project.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -215,26 +138,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8ecab3cf3e4ecb1",
+  "active": "ddac8cdcd23b4651",
   "lastOpenFiles": [
-    "IST 4610/Cryptographic Foundations.md",
-    "Red Hat Linux Week 1_Project.md",
-    "Shell Variants.md",
-    "DevOps - Week1.md",
-    "README.md",
-    "Week 3.md",
-    "development team.md",
-    "Week 2.md",
-    "Diffusion.md",
-    "Stream Ciphers.md",
-    "FIPS 140-2.md",
-    "One-time pads.md",
-    "Ciphers.md",
-    "Codes.md",
+    "RED HAT LINUX PROJECT/Red Hat Linux Week 1_Project.md",
+    "DevOps Project/DevOps - Week1.md",
+    "DevOps Project/Shell Variants.md",
     "RED HAT LINUX PROJECT/Red Hat Linux - Week 1.md",
-    "IST 4610",
+    "DevOps Project",
+    "RED HAT LINUX PROJECT/development team.md",
+    "IST 4610/One-time pads.md",
+    "IST 4610/FIPS 140-2.md",
+    "IST 4610/Diffusion.md",
+    "IST 4610/Ciphers.md",
+    "IST 4610/Codes.md",
     "Untitled 1.md",
-    "RED HAT LINUX PROJECT",
-    "Untitled.md"
+    "Untitled.md",
+    "IST 4610/Cryptographic Foundations.md",
+    "README.md",
+    "DevOps Project/Week 3.md",
+    "DevOps Project/Week 2.md",
+    "IST 4610/Stream Ciphers.md",
+    "IST 4610",
+    "RED HAT LINUX PROJECT"
   ]
 }
