@@ -1,0 +1,1 @@
+has all files that boot the system (grub, ram image)

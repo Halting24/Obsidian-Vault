@@ -1,0 +1,4 @@
+- Stores runtime information
+- process lds
+- sockets
+- logs

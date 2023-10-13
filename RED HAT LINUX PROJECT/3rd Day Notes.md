@@ -1,0 +1,14 @@
+ - # Linux File System
+- The Linux file system is designed like a tree with / as the base of it
+- commands below with /
+- [[Bin]]
+- [[Boot]]
+- [[Home]] 
+- [[Dev]] 
+- [[Etc]]
+- [[run]]
+- [[sbin]]
+- [[Tmp]]
+- [[Usr]]
+- [[Var]]
+- 

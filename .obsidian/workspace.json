@@ -11,8 +11,12 @@
             "id": "ddac8cdcd23b4651",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RED HAT LINUX PROJECT/3rd Day Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RED HAT LINUX PROJECT/3rd Day Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RED HAT LINUX PROJECT/3rd Day Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RED HAT LINUX PROJECT/3rd Day Notes.md"
+              }
             }
           }
         ]
@@ -138,8 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddac8cdcd23b4651",
+  "active": "a9b224c60f782bde",
   "lastOpenFiles": [
+    "RED HAT LINUX PROJECT/Var.md",
+    "RED HAT LINUX PROJECT/3rd Day Notes.md",
+    "RED HAT LINUX PROJECT/Usr.md",
+    "RED HAT LINUX PROJECT/run.md",
+    "RED HAT LINUX PROJECT/run 1.md",
+    "RED HAT LINUX PROJECT/Etc.md",
+    "RED HAT LINUX PROJECT/Tmp.md",
+    "RED HAT LINUX PROJECT/sbin.md",
+    "RED HAT LINUX PROJECT/Dev.md",
+    "RED HAT LINUX PROJECT/Home.md",
+    "RED HAT LINUX PROJECT/Boot.md",
+    "RED HAT LINUX PROJECT/Bin.md",
     "RED HAT LINUX PROJECT/Red Hat Linux Week 1_Project.md",
     "DevOps Project/DevOps - Week1.md",
     "DevOps Project/Shell Variants.md",
@@ -155,9 +175,6 @@
     "Untitled.md",
     "IST 4610/Cryptographic Foundations.md",
     "README.md",
-    "DevOps Project/Week 3.md",
-    "DevOps Project/Week 2.md",
-    "IST 4610/Stream Ciphers.md",
     "IST 4610",
     "RED HAT LINUX PROJECT"
   ]
